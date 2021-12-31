@@ -1,0 +1,7 @@
+asyncio
+hikari
+hikari-lightbulb
+apscheduler
+uvloop
+nekos.py
+git+https://github.com/neonjonn/lightbulb-ext-neon.git
